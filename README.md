@@ -28,6 +28,12 @@ Since there are up to 100 lines of input (0 <= n <= 100), there will therefore b
 
 ![Demo Run](demo/demo.png)
 
+# Execution steps
+
+1. ```git clone <URL> projectfolder ```
+2. ```cd projectfolder ```
+3. ```cat input | ./compute 100 500 ```
+
 # Explanation
 
 Given the n inputs, outputs 1..n will be produced based on these values, taking into account the threshold and limit arguments.
