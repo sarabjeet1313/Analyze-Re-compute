@@ -24,7 +24,7 @@ The program will only output numbers. Every line of output will contain one (and
 
 Since there are up to 100 lines of input (0 <= n <= 100), there will therefore be n+1 lines of output expected from a valid solution. The last line of output (line n+1) will be a value that represents the cumulative sum of all the values previously written. The preceding output values will depend on the arguments, which will be used to transform the input into the output.
 
-![Demo Run](demo/demoRun.png)
+![Demo Run](demo/demo.png)
 
 # Explanation
 
