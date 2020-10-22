@@ -32,7 +32,7 @@ Since there are up to 100 lines of input (0 <= n <= 100), there will therefore b
 
 1. ```git clone <URL> projectfolder ```
 2. ```cd projectfolder ```
-3. ```cat input | ./compute 100 500 ```
+3. ```cat input | python ./compute.py 100 500 ```
 
 # Explanation
 
